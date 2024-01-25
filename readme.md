@@ -1,3 +1,4 @@
+```mermaid
 classDiagram
 direction BT
 class Astre
@@ -38,4 +39,5 @@ Planet  ..>  IOrbiteAutour
 Soleil  -->  Astre 
 Soleil  ..>  IAJouterSatellite 
 Soleil  ..>  IAffichable 
-Terre  -->  Planet 
+Terre  -->  Planet
+```
