@@ -1,2 +1,4 @@
-package PACKAGE_NAME;public interface IOrbiteAutour {
+public interface IOrbiteAutour {
+    public void Orbiter(Astre astre);
+
 }

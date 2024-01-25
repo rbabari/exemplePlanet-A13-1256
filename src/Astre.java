@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public class Astre {
+public abstract class Astre {
+    public String nom;
 }

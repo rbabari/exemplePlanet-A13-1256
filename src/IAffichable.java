@@ -1,2 +1,4 @@
-package PACKAGE_NAME;public interface IAffichable {
+public interface IAffichable {
+    public void Afficher();
+
 }

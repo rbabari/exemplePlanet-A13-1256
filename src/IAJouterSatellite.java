@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public interface IAJouterSatellite {
+public interface IAJouterSatellite {
+    public void ajouterSatellite(Astre astre) throws Exception;
 }
